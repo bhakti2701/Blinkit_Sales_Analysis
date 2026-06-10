@@ -9,6 +9,10 @@ This project analyzes Blinkit sales data to uncover business insights using Powe
 - Customer rating insights
 - Product category analysis
 - Regional revenue trends
+  
+## Dataset
+8,523 records with 11 columns including Item Type, Outlet Type, 
+Outlet Location Tier, Sales, Rating, and Item Visibility.
 
 ## Tools & Technologies
 - Power BI (DAX, Data Modeling, Visualization)
