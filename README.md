@@ -16,7 +16,7 @@ This project analyzes Blinkit sales data to uncover business insights using Powe
 - Excel
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](https://github.com/bhakti2701/Blinkit_Sales_Analysis/blob/main/images/blinkitdashboard_preview.png)
 
 ## Data Cleaning (Python)
 - Handled missing values
