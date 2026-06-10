@@ -33,8 +33,15 @@ Outlet Location Tier, Sales, Rating, and Item Visibility.
 - Medium outlets perform best
 - Customer ratings impact sales trends
 
-## 📁 Project Structure
+## Project Structure
 - data/ → dataset files
 - dashboard/ → Power BI file
 - notebooks/ → Python analysis
 - images/ → dashboard preview
+
+## How to Run
+1. Clone the repo
+2. Open `notebooks/blinkit_analysis.ipynb` in Jupyter
+3. Ensure `cleaned_blinkit_data.xlsx` is in the root directory
+4. Run all cells
+5. Open `dashboard/blinkit_dashboard.pbix` in Power BI Desktop
